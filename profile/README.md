@@ -9,6 +9,8 @@ CARTA is a next-generation image visualization and analysis tool designed for AL
 * Browse or file [issues](https://github.com/CARTAvis/carta/issues)
 * Download [standalone release packages](https://github.com/CARTAvis/carta/releases/latest)
 
+<br clear="right"/>
+
 ## User documentation
 
 * [User manual](https://carta.readthedocs.io)
