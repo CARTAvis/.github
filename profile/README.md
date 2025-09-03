@@ -1,6 +1,8 @@
 # CARTA: Cube Analysis and Rendering Tool for Astronomy
 
-<img align="right" src="cartaviewer.png">CARTA is a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
+<img align="right" src="cartaviewer.png">
+
+CARTA is a next-generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
 
 * Visit our [homepage](https://cartavis.org/) for more information about the project and installation options
 * Email the [helpdesk](mailto:support@carta.freshdesk.com)
